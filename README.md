@@ -10,3 +10,5 @@
    - <b> Link: </b>N/A 
  - <b>picoCTF: </b>picoCTF is the largest cybersecurity hacking competition for middle, high school, and college students. Participants 13 years and older of all skill levels are encouraged to compete. Competitors must reverse-engineer, break, hack, decrypt, and think creatively and critically to solve the challenges and capture the digital flags.
    - <b>Link: </b>N/A
+ - <b>Coding Tech Tuesdays: </b>Coding Tech Tuesdays is a newsletter built by Megh Mistry (me) which gives you weekly newsletters which tech you a bit about tech and failed businesses, every Tuesday!
+   - <b>Link: </b><a href="https://codingtuesdays.substack.com/">codingtuesdays.substack.com/</a>

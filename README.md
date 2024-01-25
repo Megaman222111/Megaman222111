@@ -13,4 +13,6 @@
  - <b>picoCTF: </b>picoCTF is the largest cybersecurity hacking competition for middle, high school, and college students. Participants 13 years and older of all skill levels are encouraged to compete. Competitors must reverse-engineer, break, hack, decrypt, and think creatively and critically to solve the challenges and capture the digital flags.
    - <b>Link (2023 Writeup): </b>COMING SOON
 - <b>Replacing Traditional Identification Cards With NFTs: </b>An article suggesting the possible usage of blockchain technologies such as NFT's to replace traditional identification methods, presented with specific technological examples.
-   - <b> Link: </b><a href="https://medium.com/@meghmistry/replacing-traditional-identification-cards-with-nfts-c1f48552e783">Link to article</a>
+   - <b>Link: </b><a href="https://medium.com/@meghmistry/replacing-traditional-identification-cards-with-nfts-c1f48552e783">Link to article</a>
+- <b>How I made a Minecraft NFT Game on the Blockchain: </b>A minecraft-inspired game I created which is powered on the Ethereum testnet blockchain.
+   - <b>Link: </b><a href="https://medium.com/@meghmistry/how-i-made-a-minecraft-nft-game-on-the-blockchain-2424bc582d83">Link to article</a>

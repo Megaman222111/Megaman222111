@@ -3,10 +3,12 @@
    - <b>Links: </b>
      - <a href="https://devpost.com/software/triageid" target="_blank">devpost.com</a>
      - <a href="https://github.com/Megaman222111/artificial-unintelligence_TriageID" target="_blank">github.com</a>
+     - <a href="https://www.youtube.com/watch?v=T2ygs-dIF6k" target="_blank">Video Demo</a>
  - <b>Pro Pro Sahur (<i>3rd Place Winner</i> @ SillyCon Valley Hackathon): </b>A productivity buddy that keeps you locked in, built using the .NET 8 WPF, GPT-4o, and an open-source TTS called Piper.
    - <b>Links: </b>
      - <a href="https://devpost.com/software/pro-pro-sahur" target="_blank">devpost.com</a>
      - <a href="https://github.com/Kulgagan/Sillycon-Valley-Hacks" target="_blank">github.com</a>
+     - <a href="https://www.youtube.com/watch?v=wguXNYtLa00" target="_blank">Video Demo</a>
  - <b>Clario (NatHacks 2025): </b>A tool that helps people with learning impairments stay calmly focused through actively-generated white noise, which is connected to a Muse 2 EEG to actively genereate and audit the sounds to your brain profile
    - <b>Links: </b>
      - <a href="https://devpost.com/software/clario-tw3fjd" target="_blank">devpost.com</a>

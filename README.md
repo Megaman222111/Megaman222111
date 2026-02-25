@@ -1,7 +1,8 @@
 ## Projects & Stuff I Am Working On:
-
- - <b>Stand-Up: </b>A machine-learning based website, which checks if you are standing up, and times you whenever you sit down. It also emails you and notifies if you were sitting down for too long.
-   - <b>Link: </b>N/A
+ - <b>Clario: </b>A tool that helps people with learning impairments stay calmly focused through actively-generated white noise, which is connected to a Muse 2 EEG to actively genereate and audit the sounds to your brain profile
+   - <b>Link: <a href="https://devpost.com/software/clario-tw3fjd" target="_blank"></b>N/A
+ - <b>Stand-Up: </b>A machine-learning based website, which checks if you are standing up, and times you whenever you sit down. It also emails you and notifies if you were sitting down for too long (built in 2022 when vibe-coding didn't exist)
+   - <b>Link: <a href="https://github.com/Megaman222111/standup" target="_blank"></b>
  - <b>Buildspace Projects: </b>Multiple projects with both frontends and backends, connected to the blockchain. A few of these are avalible to view on my Replit profile. they are also scatttered along my github repositories.
    - <b>Link: </b><a href="https://replit.com/@MeghMistry" target="_blank">replit.com</a>
  - <b>Learning New Languages, and ML: </b>A repository containing the code that I have used to gain a part of the expertise that I have today. Different branches contain different languages and projects. Note that this is not all of my code, just around 20% of the code which I wrote to start learning.

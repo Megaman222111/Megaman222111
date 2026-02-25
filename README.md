@@ -1,5 +1,5 @@
 ## Projects & Stuff I Am Working On:
- - <b>Pro Pro Sahur (<b>3rd Place Winner</b> @ SillyCon Valley Hackathon): </b>A productivity buddy that keeps you locked in, built using the .NET 8 WPF, GPT-4o, and an open-source TTS called Piper.
+ - <b>Pro Pro Sahur (<i>3rd Place Winner</i> @ SillyCon Valley Hackathon): </b>A productivity buddy that keeps you locked in, built using the .NET 8 WPF, GPT-4o, and an open-source TTS called Piper.
    - <b>Link: </b><a href="https://devpost.com/software/clario-tw3fjd" target="_blank">devpost.com</a>
  - <b>Clario (NatHacks 2025): </b>A tool that helps people with learning impairments stay calmly focused through actively-generated white noise, which is connected to a Muse 2 EEG to actively genereate and audit the sounds to your brain profile
    - <b>Link: </b><a href="https://devpost.com/software/clario-tw3fjd" target="_blank">devpost.com</a>

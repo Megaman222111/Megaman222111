@@ -1,8 +1,12 @@
 ## Projects & Stuff I Am Working On:
  - <b>Pro Pro Sahur (<i>3rd Place Winner</i> @ SillyCon Valley Hackathon): </b>A productivity buddy that keeps you locked in, built using the .NET 8 WPF, GPT-4o, and an open-source TTS called Piper.
-   - <b>Link: </b><a href="https://devpost.com/software/clario-tw3fjd" target="_blank">devpost.com</a>
+   - <b>Links: </b>
+     - <a href="https://devpost.com/software/pro-pro-sahur" target="_blank">devpost.com</a>
+     - <a href="https://github.com/Kulgagan/Sillycon-Valley-Hacks" target="_blank">github.com</a>
  - <b>Clario (NatHacks 2025): </b>A tool that helps people with learning impairments stay calmly focused through actively-generated white noise, which is connected to a Muse 2 EEG to actively genereate and audit the sounds to your brain profile
-   - <b>Link: </b><a href="https://devpost.com/software/clario-tw3fjd" target="_blank">devpost.com</a>
+   - <b>Links: </b>
+     - <a href="https://devpost.com/software/clario-tw3fjd" target="_blank">devpost.com</a>
+     - <a href="https://github.com/Kulgagan/Clario" target="_blank">github.com</a>
  - <b>Stand-Up: </b>A machine-learning based website, which checks if you are standing up, and times you whenever you sit down. It also emails you and notifies if you were sitting down for too long (built in 2022 when vibe-coding didn't exist)
    - <b>Link: </b><a href="https://github.com/Megaman222111/standup" target="_blank">github.com</a>
  - <b>Buildspace Projects: </b>Multiple projects with both frontends and backends, connected to the blockchain. A few of these are avalible to view on my Replit profile. they are also scatttered along my github repositories.

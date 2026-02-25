@@ -1,5 +1,7 @@
 ## Projects & Stuff I Am Working On:
- - <b>Clario: </b>A tool that helps people with learning impairments stay calmly focused through actively-generated white noise, which is connected to a Muse 2 EEG to actively genereate and audit the sounds to your brain profile
+ - <b>Pro Pro Sahur (<b>3rd Place Winner</b> @ SillyCon Valley Hackathon): </b>A productivity buddy that keeps you locked in, built using the .NET 8 WPF, GPT-4o, and an open-source TTS called Piper.
+   - <b>Link: </b><a href="https://devpost.com/software/clario-tw3fjd" target="_blank">devpost.com</a>
+ - <b>Clario (NatHacks 2025): </b>A tool that helps people with learning impairments stay calmly focused through actively-generated white noise, which is connected to a Muse 2 EEG to actively genereate and audit the sounds to your brain profile
    - <b>Link: </b><a href="https://devpost.com/software/clario-tw3fjd" target="_blank">devpost.com</a>
  - <b>Stand-Up: </b>A machine-learning based website, which checks if you are standing up, and times you whenever you sit down. It also emails you and notifies if you were sitting down for too long (built in 2022 when vibe-coding didn't exist)
    - <b>Link: </b><a href="https://github.com/Megaman222111/standup" target="_blank">github.com</a>

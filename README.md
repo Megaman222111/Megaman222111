@@ -1,5 +1,5 @@
 ## Projects & Stuff I Am Working On:
- - <b>Pro Pro Sahur (<i>2nd Place Hardware Division Winner</i> @ HackEd 2026 (Alberta's Premier 48h Hackathon): </b>An AI-powered medical emergency information system that shows EMTs and emergency medical staff key patient information the touch of an NFC bracelet.
+ - <b>Pro Pro Sahur (<i>2nd Place Hardware Division Winner</i> @ HackEd 2026 (Alberta's Premier 48h Hackathon)): </b>An AI-powered medical emergency information system that shows EMTs and emergency medical staff key patient information the touch of an NFC bracelet.
    - <b>Links: </b>
      - <a href="https://devpost.com/software/triageid" target="_blank">devpost.com</a>
      - <a href="https://github.com/Megaman222111/artificial-unintelligence_TriageID" target="_blank">github.com</a>
